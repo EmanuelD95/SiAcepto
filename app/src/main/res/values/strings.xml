@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SiAcepto</string>
+    <string name="btn_siguiente">SIGUIENTE</string>
+    <string name="btn_anterior">ANTERIOR</string>
+</resources>
